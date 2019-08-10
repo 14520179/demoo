@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "imgSrc": "/images/1.png",
+    "username": "sub_manager",
+    "lastName": "Tran",
+    "firstName": "Thanh"
+  },
+  {
+    "id": 2,
+    "imgSrc": "/images/2.png",
+    "username": "normal_user",
+    "lastName": "Pham",
+    "firstName": "Trang"
+  }
+]
